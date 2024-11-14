@@ -1,0 +1,9 @@
+parent: classic
+name: promochasse
+display_name: Promo Chasse > Child theme of classic's theme
+version: 1.0.0
+assets:
+  use_parent_assets: false
+
+
+      

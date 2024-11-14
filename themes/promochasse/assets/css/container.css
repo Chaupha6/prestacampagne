@@ -1,0 +1,333 @@
+/*---Begin Etadev---*/
+
+.vous-allez {
+
+	width: 100%;
+
+	height: 600px;
+
+}
+
+        
+
+.block-aimer {
+
+	margin-top: -550px !important;
+
+	margin-left: auto;
+
+	margin-right: auto;
+
+	/*width: 1200px;*/
+
+}
+
+
+
+.block-aimer .featured-products .container .product-section-title h1 {
+
+	text-align: center;
+
+	border-bottom: none;
+
+    display: block;
+
+    font-size: 22px;
+
+    margin-top: -35px;
+
+    padding-bottom: 10px;
+
+    text-transform: capitalize !important;
+
+    letter-spacing: 0.5px;
+
+    color: #fff;
+
+    margin-bottom: 0;
+
+    line-height: 24px;
+
+    font-weight: 600;
+
+}
+
+
+
+#menu1
+
+{
+
+	margin-top: 600px;
+
+	margin-left: auto;
+
+    margin-right: auto;
+
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+
+}
+@media screen and (max-width: 600px){
+
+}
+
+#onglets
+
+{
+
+    font : 14px Batang, arial, Lucida sans Unicode;
+
+    list-style-type : none;
+
+    padding-bottom : 24px;
+
+    margin-left : 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}	
+
+#onglets li
+
+{
+
+    float : left;
+
+    height : 21px;
+
+   /* padding-left: 20px;*/
+   margin-bottom: 5px;
+
+}
+
+#onglets li.active
+
+{
+
+    border-bottom: 1px solid orange;
+
+    background-color: #fff;
+
+    color: orange;
+
+}
+
+#onglets li.active a
+
+{
+    color: orange;
+}
+
+#onglets a
+
+{
+
+    display : block;
+
+    /*color : #666;*/
+
+    text-decoration : none;
+
+    padding : 4px 15px;
+
+}
+
+#onglets a:hover
+
+{
+
+    color: orange;
+
+    cursor: pointer;
+
+}
+
+
+
+.all-product 
+
+{
+
+	clear: both;
+
+    float: left;
+
+    padding: 50px 0 30px;
+
+    padding-top: 0;
+
+    margin-left: 14%;
+
+    /*width: 1500px;*/
+
+    padding-right: none;
+
+
+
+}
+
+.all-row
+
+{
+
+	margin-left: -10px;
+
+    margin-right: -10px;
+
+    width: 100%;
+
+}
+
+.all-product .all-inner
+
+{
+
+	float: left;
+
+    position: relative;
+
+    padding-right: 10px;
+
+    padding-top: 20px;
+
+}
+
+.product-price1
+
+{
+
+	text-align: center;
+
+	padding: 10%;
+
+}
+
+@media screen and (max-width: 700px){
+    .header-top #_desktop_user_info{
+        display: inline;
+
+    }
+}
+
+.header-top #_desktop_user_info 
+
+{
+
+	margin-left: 370px;
+
+	margin-top: -30px;
+
+}
+
+.ets_mm_megamenu_content
+
+{
+
+	background: #0c000e;
+
+}
+
+.layout_layout1 .ets_mm_megamenu_content
+
+{
+
+	background: transparent;
+
+}
+
+#footer .footer-container .contact-form .form-control
+
+{
+
+	width: initial;
+
+    margin-left: -30px;
+
+    height:auto ;/*Ismael*/
+    margin-bottom: 15px
+
+}
+
+
+
+#footer .footer-container .contact-form .form-fields .col-md-offset-3 
+
+{
+
+	left: 38px;
+
+}
+
+.pimg {
+
+    width: 210px;
+
+}
+
+
+
+.brand-section #brands-slider .owl-wrapper {
+
+    padding-top: 70px !important;
+
+}
+
+.brand-section #brands-slider .owl-wrapper  .owl-item {
+
+    width: 150px !important;
+
+    margin-right: 90px !important;
+
+}
+
+.brand-section .mparte {
+
+    color: #ffffff;
+
+    text-align: center;
+
+}
+
+.footer-container .footer-bottom .cards {
+
+    padding-top: 20px;
+
+    /*padding-left: 350px;*/
+}
+
+.features-mid-block .container-promo .bon-af {
+
+    border-bottom: none;
+
+    width: 100%;
+
+    line-height: 1.5;
+
+    margin-left: 0;
+    text-decoration: underline;
+}
+
+#contactinfo-section .footer-links-column .address .fa-phone {
+
+    margin-left: 6px;
+}
+
+/*---End Etadev---*/
+/*----randev106----*/
+.mb-2 {
+    margin-bottom: 1.5rem!important;
+   /* text-decoration: underline!important;*/
+}
+@media (max-width: 767px){
+    #_desktop_cart .blockcart{
+            float: right;
+    height: 45px;
+    /*border: 1px solid #d1d1d1;*/
+    position:relative;
+    right: 50%;
+    }
+   

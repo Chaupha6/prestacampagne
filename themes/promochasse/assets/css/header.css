@@ -1,0 +1,208 @@
+#affaires img {
+
+	width:100%;
+
+}
+/* sitemap */
+#sitemap .sitemap ul{
+  display: initial;
+}
+#sitemap #wrapper .container .row{
+  display: initial;
+}
+/*#sitemap .sitemap ul li a{
+  margin-bottom: 1rem;
+}*/
+#sitemap .sitemap ul.nested li{
+  margin-left: 20px;
+  margin-bottom: 1rem;
+  padding: 0px;
+}
+#sitemap li{
+  padding: 0px;
+}
+
+/*end sitemap*/
+
+
+/*#product-description-short-1 p{
+
+	width:300px;
+
+}*/
+@media screen and (max-width: 600px){
+  #affaires img{
+    width:75%;
+  }
+}
+
+#affaires ul .product-flags{
+
+	left:180px !imporant;
+
+}
+
+
+
+  .features-mid-block h2.bon-af{
+
+	text-align: center !important;
+
+}
+
+  /*.col-lg-3 {
+
+  	width: 300px !important;
+
+  }
+*/
+.col-lg-3 img {
+
+    width: 100%;
+
+  }
+
+
+
+  .discount-percentage{
+
+	  top: 0 !important;
+
+   /* position: absolute;*/
+
+    right: 0;
+
+    left: auto;
+
+    margin-top: .625rem;
+
+    box-shadow: none;
+
+    font-size: 14px;
+
+    text-align: center;
+
+    line-height: 18px;
+
+    min-height: auto;
+
+    min-width: auto;
+
+    padding: 4px 8px;
+
+    background: #f5f5f5;
+
+    color: #333333;
+
+  }
+
+
+
+.product-flag.new {
+
+	margin-top: 335px;
+
+
+
+} 
+
+
+
+ #features-mid .container-promo{
+
+  
+
+  width: 80%;
+
+  margin:auto;
+
+}
+
+/*---Etadev---*/
+
+.image-slider-block #carousel .caption-description {
+
+  /*margin-left: 100px;*/
+
+  margin-bottom: 100px;
+    width: 150%;
+
+}
+
+
+
+.image-slider-block #carousel .caption-description .MsoNormal {
+
+  width: 500px;
+
+}
+
+/*.product-description {
+
+  background:#dcdcdc;
+
+}*/
+
+/* -----randev106------------*/
+
+/*
+
+@media (width: 768px){
+
+  .container {
+
+      width: 768px!important;
+
+      padding: 0px!important;
+
+      margin: 0px!important;
+
+  }
+
+  #_desktop_cart .blockcart {
+
+   margin-right: 0px!important;
+
+   border: 0px!important;
+
+  }
+
+  .changestatus.transition_floating .mm_menus_ul {
+
+    height: 100%!important;
+
+  }
+
+  .features-mid-block .container-promo .bon-af {
+
+    margin-left: 210px!important;
+
+  }
+
+  .ets_mm_megamenu_content .ets_mm_megamenu_content_content .mm_menus_ul {
+
+    background: #ffffff!important;
+
+}
+
+}
+
+*/
+
+.has-discount .discount {
+
+    background: #dc4f08!important;
+
+    color: #fff!important;
+
+    font-weight: 600!important;
+
+    padding: .3125rem .625rem!important;
+
+    font-size: 1rem!important;
+
+    margin-left: .625rem!important;
+
+    text-transform: uppercase!important;
+
+    display: inline-block!important;
